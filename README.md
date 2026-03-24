@@ -87,7 +87,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 ----------
 
 <p align="center">
-<a href='https://base-pair-dark-silence-md.onrender.com' target="_blank">
+<a href='https://base-pair.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
@@ -96,7 +96,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 ----------
 
 <p align="center">
-<a href='https://pair-dark-silence-md.onrender.com' target="_blank">
+<a href='https://pair-dark-silence-v6nv.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
  
